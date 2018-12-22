@@ -58,6 +58,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
+    "update-manifest": "node scripts/update-manifest.js",
     "test": "node scripts/test.js"
   },
   "eslintConfig": {
